@@ -1,0 +1,13 @@
+.row{
+    text-align: center;
+    column-gap: 220px;
+    margin-left: 40px;
+}
+.navbar{
+    background-color: black;
+
+}
+.btn{
+    background-color: yellow;
+    color: blue;
+}
