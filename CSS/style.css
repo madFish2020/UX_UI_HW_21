@@ -9,5 +9,15 @@
 }
 .btn{
     background-color: yellow;
+    color: black;
+
+}
+.nav-justified{
+    background-color: grey;
+}
+.nav-link{
+    color: white;
+}
+.bread{
     color: blue;
 }
