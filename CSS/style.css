@@ -24,6 +24,13 @@
 h1{
     text-align: center;
 }
-.left{
-    text-align: left;
+
+.lead{
+    text-align: center;
+}
+.row{
+    margin-bottom: 40px;
+}
+h2{
+    margin-left: 40px;
 }
